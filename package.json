@@ -1,0 +1,12 @@
+{
+  "name": "dingtalk-feishu-webhook",
+  "version": "1.0.0",
+  "main": "api/webhook.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "crypto": "^1.0.1"
+  }
+}
